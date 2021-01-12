@@ -1,4 +1,4 @@
-# jzintv-gameshellv2
+# jzintv-gameshell
 JZINTV on ClockworkPI Gameshell
 This is a great alternative to FreeINTV for users who do not want to use the pop up controller but rather use mapped controls to the Gameshell.  This also precludes video stutter found in AD&D, Kool Aid man and others. 
 Gameshell Keyboard 
